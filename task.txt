@@ -1,0 +1,7 @@
+what is linux
+how to create a directory
+how to create a file
+how to insert data into the file
+how to create user(shashipriya)
+how to set password to the created user 
+how to login to the user(shashipriya)
